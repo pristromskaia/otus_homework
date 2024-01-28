@@ -1,4 +1,6 @@
 """Calculating average number"""
+
+
 def calculate_average(numbers):
     """Function returning average number"""
     total = sum(numbers)
